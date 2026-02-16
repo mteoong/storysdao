@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Diamond Sword",
+    "description": "A legendary sword crafted from pure diamond blocks.",
+    "price": "250",
+    "rarity": "Legendary",
+    "category": "Weapon",
+    "color": "#60A5FA"
+  },
+  {
+    "id": "2",
+    "name": "Rocket Boots",
+    "description": "Jump higher and dash through the air with these enchanted boots.",
+    "price": "180",
+    "rarity": "Epic",
+    "category": "Wearable",
+    "color": "#F97316"
+  },
+  {
+    "id": "3",
+    "name": "Shadow Cape",
+    "description": "A dark cloak that grants stealth abilities in Storysdao.",
+    "price": "120",
+    "rarity": "Rare",
+    "category": "Wearable",
+    "color": "#8B5CF6"
+  },
+  {
+    "id": "4",
+    "name": "Crystal Pickaxe",
+    "description": "Mine blocks 3x faster with this crystal-infused tool.",
+    "price": "90",
+    "rarity": "Rare",
+    "category": "Tool",
+    "color": "#06B6D4"
+  },
+  {
+    "id": "5",
+    "name": "Neon Halo",
+    "description": "A glowing halo that floats above your avatar.",
+    "price": "300",
+    "rarity": "Legendary",
+    "category": "Cosmetic",
+    "color": "#FBBF24"
+  },
+  {
+    "id": "6",
+    "name": "Builder's Hammer",
+    "description": "Place blocks instantly with this builder's tool.",
+    "price": "75",
+    "rarity": "Common",
+    "category": "Tool",
+    "color": "#A78BFA"
+  },
+  {
+    "id": "7",
+    "name": "Fire Wings",
+    "description": "Blazing wings that let you glide across the world.",
+    "price": "400",
+    "rarity": "Legendary",
+    "category": "Cosmetic",
+    "color": "#EF4444"
+  },
+  {
+    "id": "8",
+    "name": "Stone Shield",
+    "description": "A sturdy shield carved from enchanted stone blocks.",
+    "price": "60",
+    "rarity": "Common",
+    "category": "Weapon",
+    "color": "#9CA3AF"
+  }
+]
