@@ -2,6 +2,9 @@
 
 A Roblox-style 3D game platform with an onchain economy on Monad. Build worlds, trade assets, and earn $SDAO tokens.
 
+# Demo
+https://github.com/user-attachments/assets/e2d78132-1235-4d14-8498-07d7cf434edc
+
 ## What It Does
 
 **Storysdao** is a browser-based 3D voxel game engine with a built-in marketplace and AI world builder, all connected to the Monad blockchain.
